@@ -1,0 +1,3 @@
+hsa_miR_3939	NC_045512.2_Severe_acute_respiratory_syndrome_coronavirus_2_isolate_Wuhan-Hu-1,_complete_genome	SEQ_FROM_1476_1497	0	test.seq	-14.40	TTGCCTTTGGAGGCTGTGTGTT	TACGCGCAGACCACAGGATGTC	.....((((..((((((((((.	.)))))))).)).)))).....	14	14	22	0	0	0.705000
+hsa_miR_3939	NC_045512.2_Severe_acute_respiratory_syndrome_coronavirus_2_isolate_Wuhan-Hu-1,_complete_genome	SEQ_FROM_1927_1946	0	test.seq	-14.90	TGCTCAAAATTCTGTGCGTG	TACGCGCAGACCACAGGATGTC	.((((.....((((((((((	))))))))))......)).)).	14	14	20	0	0	0.052500
+hsa_miR_3939	NC_045512.2_Severe_acute_respiratory_syndrome_coronavirus_2_isolate_Wuhan-Hu-1,_complete_genome	SEQ_FROM_20478_20497	0	test.seq	-14.10	TTCATCTAAGTGTGTGTGTT	TACGCGCAGACCACAGGATGTC	..(((((..((.(((((((.	.))))))).))....)))))..	14	14	20	0	0	0.306000

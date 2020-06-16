@@ -1,0 +1,1 @@
+hsa_miR_4720_5p	NC-rev-complement_045512.2_Severe_acute_respiratory_syndrome_coronavirus_2_isolate_Wuhan-Hu-1,_complete_genome	SEQ_FROM_29005_29027	0	test.seq	-14.30	AAGCTTTACCAGCACGTGCTAGA	CCTGGCATATTTGGTATAACTT	(((...((((((...(((((((.	.)))))))..))))))...)))	16	16	23	0	0	0.261000

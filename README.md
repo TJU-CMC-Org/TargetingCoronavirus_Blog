@@ -1,7 +1,8 @@
 # TargetingCoronavirus_Blog
 Targeting SARS-CoV-2 by endogenous miRNA clusters
 
-Below is only a summary, access full blog at: https://cm.jefferson.edu/BLOGURLTBD
+
+Below is only a summary, view the full blog at https://cm.jefferson.edu/BLOGURLTBD
 
 TLDR
 ---------------

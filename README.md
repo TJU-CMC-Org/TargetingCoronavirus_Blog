@@ -1,4 +1,4 @@
-# Targeting SARS-CoV-2 by endogenous miRNA clusters
+# Targeting SARS-CoV-2 by human miRNA clusters
 
 #OpenScience #OpenCode #OpenData #MachineLearning
 

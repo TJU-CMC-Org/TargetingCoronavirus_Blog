@@ -1,4 +1,4 @@
-# Targeting SARS-CoV-2 by human miRNAs
+# Targeting SARS-CoV-2 by Human MiRNAs
 
 #OpenScience #OpenCode #OpenData #MachineLearning
 
